@@ -30,4 +30,4 @@ As mentioned previously, the Arduino is responsible for the real time processing
 
 #### Arduino Code Execution
 
-<img src="Documentation\Images\Arduino_Code_Execution.png" style="zoom:50%;" />
+![](Documentation\Images\Arduino_Code_Execution.png){:height="50%" width="50%"}
