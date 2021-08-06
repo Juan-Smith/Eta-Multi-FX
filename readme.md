@@ -1,5 +1,6 @@
-
-<img src="Documentation\Images\logo.png" width="50%" height="50%" >
+<p align="center">
+<img src="Documentation\Images\logo.png" width="60%" height="60%" >
+</p>
 
 ### Abstract
 <p align="justify">
