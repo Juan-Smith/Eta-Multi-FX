@@ -5,6 +5,6 @@
 ### Abstract
 <p align="justify">
   <i>
-This project aims to provide a cheaper alternative to commercially available multi-fx units for guitar players. Through the use of a microcontroller.
+This project aims to provide a cheaper alternative to commercially available multi-fx units for guitar players. Through the use of a microcontroller. Please view the [list of the essential readings and resouces](Documentation/Essentail_Readings_And_Resources/Essential_Readings.md) available.
   </i>
 </p>
