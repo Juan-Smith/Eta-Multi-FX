@@ -19,3 +19,7 @@ The following document aims to serve the purpose of providing a storage space fo
 
 - https://za.rs-online.com/web/p/push-button-switches/8466736 [foot switch]
 
+- https://za.rs-online.com/web/p/push-button-switches/8466726 [foot switch SPDT]
+
+
+
