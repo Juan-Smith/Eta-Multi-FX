@@ -10,6 +10,7 @@ The following document aims to serve the purpose of providing a storage space fo
 - https://www.analog.com/en/education/education-library/scientist_engineers_guide.html [The Scientist & Engineer's Guide to Digital Signal Processing, 1999. Free  DSP resources book]
 - https://www.analog.com/en/analog-dialogue/articles/dsp-101-part-1.html [Introduction to DSP systems]
 - https://www.makeuseof.com/tag/best-arduino-alternative-microcontrollers/ [Arduino Alternatives]
+- https://masteringelectronicsdesign.com/derive-the-transfer-function-of-the-common-collector-amplifier-with-thevenins-theorem/ [BJT transfer function calculations using Thevenin's Theorem]
 
 
 
