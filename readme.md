@@ -2,9 +2,11 @@
 <img src="Documentation\Images\logo.png" width="60%" height="60%" >
 </p>
 
-### Abstract
+### About
 <p align="justify">
   <i>
-This project aims to provide a cheaper alternative to commercially available multi-fx units for guitar players. Through the use of a microcontroller. Please view the [list of the essential readings and resouces](https://github.com/Juan-Smith/Eta-Multi-FX/blob/master/Documentation/Essentail_Readings_And_Resources/Essential_Readings.md) available.
+This project aims to provide a cheapter DIY alternative to commerically available multi-effects units for guitar players. The Eta-Multi-FX unit aims to achieve this using off the shelf components that can be obtained from most hobbiest electronic stores. 
+
+This project is still in the very early stages therefore please view the list of [Essentail Readings and Resrouces](https://github.com/Juan-Smith/Eta-Multi-FX/blob/master/Documentation/Essentail_Readings_And_Resources/Essential_Readings.md") available for now. This document details some of the resources available for understanding details behind the working of the projects as well as examples of previous projects done by other parties which this project aims to improve on.  
   </i>
 </p>
